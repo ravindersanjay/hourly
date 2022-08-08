@@ -1,0 +1,32 @@
+2022-07-30 11:02:21.236805	,	NON-Productive	,	started new chapter of tracking hours 
+2022-07-30 11:02:32.436299	,	NON-Productive	,	started new chapter of tracking hours 
+2022-07-30 11:31:49.160977	,	NON-Productive	,	started Chef from18th video
+
+2022-07-30 12:00:36.701108	,	NON-Productive	,	updated the app
+2022-07-30 12:30:54.128435	,	NON-Productive	,	started study now
+2022-07-30 13:07:42.684250	,	NON-Productive	,	ppp
+2022-07-30 13:31:06.304634	,	NON-Productive	,	linux issue fixing
+2022-07-30 14:00:09.661202	,	NON-Productive	,	linux
+2022-07-30 14:31:50.473134	,	Productive	,	code with harry video
+2022-07-30 15:10:27.547955	,	Productive	,	shell
+2022-07-30 15:30:51.777086	,	Productive	,	chef
+2022-07-30 17:00:10.852560	,	Productive	,	chef
+2022-07-30 17:30:51.097014	,	Productive	,	chef
+2022-07-30 18:00:15.833600	,	Productive	,	chef
+2022-08-02 20:31:22.176759	,	NON-Productive	,	started now
+2022-08-04 10:37:45.623557	,	NON-Productive	,	started my day
+2022-08-06 14:13:33.231449	,	NON-Productive	,	starting my saturday
+2022-08-06 17:23:41.862138	,	NON-Productive	,	just started git
+2022-08-07 17:31:10.701413	,	NON-Productive	,	started my sunday now
+2022-08-07 18:00:27.577887	,	NON-Productive	,	maven started now
+2022-08-07 18:12:19.872787	,	Productive	,	maven
+2022-08-07 19:07:16.153146	,	NON-Productive	,	movie
+2022-08-07 19:36:17.108911	,	Productive	,	jenkins
+2022-08-07 23:24:30.106342	,	NON-Productive	,	jenkins
+2022-08-08 13:33:13.209362	,	NON-Productive	,	start monday
+2022-08-08 14:00:16.065263	,	Productive	,	jenkins
+2022-08-08 14:12:57.912707	,	NON-Productive	,	twitter
+2022-08-08 15:00:12.286530	,	NON-Productive	,	youtube
+2022-08-08 15:12:58.199204	,	Productive	,	jenkins
+2022-08-08 16:02:42.479294	,	NON-Productive	,	youtube
+2022-08-08 16:12:51.432888	,	NON-Productive	,	twtter
